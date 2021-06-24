@@ -1,3 +1,3 @@
 ## Wecodinc.com
-<a href="wecodinc.com">Wecodinc</a>
+[WECODINC](https://www.wecodinc.com)
 Learning Laravel VIA youtube and making ecommerec app of sorts.
