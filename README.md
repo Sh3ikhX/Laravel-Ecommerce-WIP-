@@ -1,5 +1,3 @@
-##Wecodinc.com
+## Wecodinc.com
 
-Learing Laravel to make an ecommerce web app.
-
-
+Learning Laravel VIA youtube and making ecommerec app of sorts.
